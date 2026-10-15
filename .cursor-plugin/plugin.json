@@ -1,8 +1,8 @@
 {
   "name": "lezonder",
   "displayName": "Lezonder",
-  "version": "1.0.0",
-  "description": "Read your latest Lezonder Sleep Score and compare your dated scores over one to seven days.",
+  "version": "1.0.1",
+  "description": "See last night's Lezonder Sleep Score and whether your week is getting better. Read only: dates and scores.",
   "author": {
     "name": "EVGENIY ANTOSHKIN",
     "email": "hello@lezonder.com"

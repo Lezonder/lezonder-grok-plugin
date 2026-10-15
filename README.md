@@ -1,10 +1,11 @@
 # Lezonder for Grok Bot
 
-Ask Grok about your Lezonder Sleep Score. This plugin connects Grok Bot to the hosted Lezonder MCP
-server so Grok can read your latest score and your dated scores for up to seven days.
+See last night's Lezonder Sleep Score and whether your week is getting better, right in Grok.
+This plugin connects Grok Bot to the hosted Lezonder MCP server so Grok can read your latest score
+and your dated scores for up to seven days.
 
-For existing Lezonder members with a current membership. The plugin is free; it does not create
-accounts, sell memberships or take payments.
+Works with your existing Lezonder account. The plugin is free; it does not create accounts, sell
+memberships or take payments.
 
 ## What it can read
 
