@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "lezonder": {
+      "url": "https://www.lezonder.com/mcp",
+      "auth": {
+        "CLIENT_ID": "8FHAuaUwNu3kflw2",
+        "scopes": ["lezonder:mcp:results:read", "offline_access"]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "lezonder",
+  "displayName": "Lezonder",
+  "version": "1.0.0",
+  "description": "Read your latest Lezonder Sleep Score and compare your dated scores over one to seven days.",
+  "author": {
+    "name": "EVGENIY ANTOSHKIN",
+    "email": "hello@lezonder.com"
+  },
+  "homepage": "https://www.lezonder.com",
+  "repository": "https://github.com/Lezonder/lezonder-grok-plugin",
+  "license": "MIT",
+  "keywords": ["sleep", "sleep score", "health", "lezonder"],
+  "logo": "assets/logo.png"
+}
